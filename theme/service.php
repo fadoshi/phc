@@ -158,7 +158,7 @@
 			<div class="col-lg-7">
 				<div class="cta-content">
 					<h2 class="mb-5 text-lg">We take pride in providing care to <span class="title-color">keep your heart healthy..</span></h2>
-					<a href="contact.php" class="btn btn-main-2 btn-round-full">Contact Us<i class="icofont-simple-right  ml-2"></i></a>
+					<a href="contact" class="btn btn-main-2 btn-round-full">Contact Us<i class="icofont-simple-right  ml-2"></i></a>
 				</div>
 			</div>
 		</div>

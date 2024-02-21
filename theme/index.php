@@ -15,7 +15,7 @@
 						<p class="mb-4 pr-5">Providing comprehensive pediatric cardiology care to Southeast Texas
 							communities.</p>
 						<div class="btn-container mt-4 ">
-							<a href="contact.php" class="btn btn-main-2 btn-icon btn-round-full">Get In Touch <i
+							<a href="contact" class="btn btn-main-2 btn-icon btn-round-full">Get In Touch <i
 									class="icofont-simple-right ml-2  "></i></a>
 						</div>
 					</div>
@@ -50,7 +50,7 @@
 							</div>
 							<h4 class="mb-2">Insurances</h4>
 							<p>We accept most comercial and medicaid plans.  Visit our Insurance page to get more information.</p>
-							<a href="insurance.php" class="btn btn-main btn-round-full mt-4">Insurance Plans<i class="icofont-simple-right ml-3"></i></a>
+							<a href="insurance" class="btn btn-main btn-round-full mt-4">Insurance Plans<i class="icofont-simple-right ml-3"></i></a>
 						</div>
 						
 						<div class="feature-item mb-5 mb-lg-0">
@@ -93,7 +93,7 @@
 						<h2 class="title-color">Pediatric <br>Cardiac Care</h2>
 						<p class="mt-4 mb-5">We look forward to providing comprehensive pediatric cardiology care to Southeast Texas communities.</p>
 	
-						<a href="service.php" class="btn btn-main-2 btn-round-full btn-icon">Services<i class="icofont-simple-right ml-3"></i></a>
+						<a href="service" class="btn btn-main-2 btn-round-full btn-icon">Services<i class="icofont-simple-right ml-3"></i></a>
 					</div>
 				</div>
 			</div>
